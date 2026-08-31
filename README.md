@@ -12,7 +12,7 @@ Email Me 👉 ✉️ **sumitdiwakar476@gmail.com** For Collaboration/Project or 
 - 🌱 **I’m currently learning:** LLM's and Generative Ai
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** sumitdiwakar476@gmail.com
-- 😄 **Pronouns:** Sumit
+- 😄 **Pronouns:** Sumo
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 ## 🌐 Socials:
