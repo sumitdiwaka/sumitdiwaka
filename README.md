@@ -1,10 +1,15 @@
 # 💫 Hi 👋, I'm Sumit Diwakar
-**A passionate software Developer || Fullstack developer **
+ <div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00E676&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;AI+%26+Next.js+Enthusiast;Open+Source+Contributor;Tech+Explorer+%7C+Problem+Solver)](https://git.io/typing-svg)
+
+</div>
+<!-- **A passionate software Developer || Fullstack developer ** -->
 
 Email Me 👉 ✉️ **sumitdiwakar476@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Portfolia and video-chat app
-- 🌱 **I’m currently learning:** Next js and Generative Ai
+- 🔭 **I’m currently working on:** Caderaedu Official Website
+- 🌱 **I’m currently learning:** LLM's and Generative Ai
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** sumitdiwakar476@gmail.com
 - 😄 **Pronouns:** Sumit
@@ -25,15 +30,17 @@ Email Me 👉 ✉️ **sumitdiwakar476@gmail.com** For Collaboration/Project or 
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sumitdiwaka&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sumitdiwaka&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitdiwaka&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=sumitdiwaka&show_icons=true&theme=radical)
+<br/>
+![](https://streak-stats.demolab.com/?user=sumitdiwaka&theme=radical)
+<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitdiwaka&layout=compact&theme=radical)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) ## 🧠 LeetCode Stats
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Sumit_Diwakar?theme=dark&font=Baloo&ext=contest)](https://leetcode.com/Sumit_Diwakar)-->
+ ## 🧠 LeetCode Stats
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Sumit_Diwakar?theme=dark&font=Baloo&ext=contest)](https://leetcode.com/Sumit_Diwakar)
 
 
 ### 🔝 Top Contributed Repo
