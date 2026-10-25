@@ -8,7 +8,7 @@
 
 Email Me 👉 ✉️ **sumitdiwakar476@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Caderaedu Official Website
+- 🔭 **I’m currently working on:** SETU AI App
 - 🌱 **I’m currently learning:** LLM's and Generative Ai
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** sumitdiwakar476@gmail.com
